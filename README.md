@@ -1,3 +1,10 @@
+# WEFsolutions
+The aim of this project is to build up a database of technologies and nature-based solutions for water, energy, and food supply. The models shall exhibit the physical, environmental and socioeconomic properties of the solutions, as well as, the nexus among them and to related systems.
+
+A template for adding and editing WEF solutions will be provided soon. 
+
+This repository is generated from rli_template. More information see below.
+
 # rli_template
 Template repository for creating new projects under the RLI's umbrella
 
